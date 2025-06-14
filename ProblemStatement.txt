@@ -1,0 +1,3 @@
+Develop a RAG-based chatbot that allows users to upload research article PDFs, interact through natural language queries, and receive context-aware answers with citation explanations using Gemini AI and LangChain tools.
+
+Problem Statement given by PhoQTek Labs.
