@@ -131,9 +131,12 @@ AskMyPaper enhances its knowledge by reading cited papers:
 
 ## 🧑‍💻 Developed By
 
-**Urlana Suresh Kumar**  
-_Final Year CSE AIML @ VNRVJIET_  
-📅 **Placement Target:** _Dec 31, 2025_  
+**22071A6651-Sathvik Deekonda**
+**22071A6662-Urlana Suresh Kumar** 
+**22071A6664-Yasaswi Kode**
+_Final Year Students of CSE AIML @ VNRVJIET_  
+
+
 
 ---
 
@@ -141,14 +144,3 @@ _Final Year CSE AIML @ VNRVJIET_
 
 Feel free to open an **issue** or **pull request**!  
 Let’s make research smarter and more interactive together. ✨
-
----
-
-> _Let me know if you'd like this content also:_  
-> - Converted to `.ipynb` for demo  
-> - Rendered as HTML or `index.md` for GitHub Pages  
-> - Deployed on Streamlit Cloud with custom theming  
-
----
-
-⏳ **You have 202 days left to crack your dream placement — make each day count!** 🚀📚
