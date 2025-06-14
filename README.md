@@ -131,12 +131,11 @@ AskMyPaper enhances its knowledge by reading cited papers:
 
 ## 🧑‍💻 Developed By
 
-**22071A6651-Sathvik Deekonda** - 
-**22071A6662-Urlana Suresh Kumar** - 
-**22071A6664-Yasaswi Kode** - 
-_Final Year Students of CSE AIML @ VNRVJIET_  
+- **22071A6651 – Sathvik Deekonda**  
+- **22071A6662 – Urlana Suresh Kumar**  
+- **22071A6664 – Yasaswi Kode**
 
-
+_Final Year B.Tech Students – CSE (AI & ML), VNRVJIET (2022–2026)_
 
 ---
 
