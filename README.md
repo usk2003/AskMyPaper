@@ -1,4 +1,4 @@
-# AskMyPaper: Unpacking the Tech Behind Your Research Assistant
+# AskMyPaper: d Your Research Assistant
 
 AskMyPaper is an AI-powered research assistant that helps users interact intelligently with academic papers. Built using Streamlit and integrated with advanced models and APIs, it allows you to upload a PDF and ask questions directly about the content. It can even fetch and analyze referenced papers automatically.
 
